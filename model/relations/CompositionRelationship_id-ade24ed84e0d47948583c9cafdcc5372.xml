@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="chứa/năng lực con"
+    id="id-ade24ed84e0d47948583c9cafdcc5372">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-5ec57283e81c4a0e85e1caf6216016c3.xml#id-5ec57283e81c4a0e85e1caf6216016c3"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-5ec57283e81c4a0e85e1caf6216016c3.xml#id-5ec57283e81c4a0e85e1caf6216016c3"/>
+</archimate:CompositionRelationship>
