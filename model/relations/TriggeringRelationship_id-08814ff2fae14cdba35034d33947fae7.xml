@@ -1,7 +1,8 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-d731cf9b42294a408ffa3255c76de084">
+    name="phục vụ cho"
+    id="id-08814ff2fae14cdba35034d33947fae7">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-532f29c3544243aa894493d702f14819.xml#id-532f29c3544243aa894493d702f14819"/>
