@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hỗ trợ cho"
+    id="id-f12e4ed448064829bcbdc73bf0f39ac3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2467dae3350e4e6ea92d8bfea9713967.xml#id-2467dae3350e4e6ea92d8bfea9713967"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_id-b66287e9603640b7b1dc8e71f161daf3.xml#id-b66287e9603640b7b1dc8e71f161daf3"/>
+</archimate:RealizationRelationship>
