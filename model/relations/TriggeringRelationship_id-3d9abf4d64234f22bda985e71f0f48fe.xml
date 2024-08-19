@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sử dụng/kích hoạt"
+    id="id-3d9abf4d64234f22bda985e71f0f48fe">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5bcdb8e3088d44029cf1d0da3b5b685b.xml#id-5bcdb8e3088d44029cf1d0da3b5b685b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5772b55f337d4d82a0606ef157f86f1c.xml#id-5772b55f337d4d82a0606ef157f86f1c"/>
+</archimate:TriggeringRelationship>

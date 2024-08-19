@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sở hữu"
+    id="id-c6e78f248a94472f8b9661605db4011b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5bcdb8e3088d44029cf1d0da3b5b685b.xml#id-5bcdb8e3088d44029cf1d0da3b5b685b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2d650de43a064e08bdde2441ab4c713e.xml#id-2d650de43a064e08bdde2441ab4c713e"/>
+</archimate:AssignmentRelationship>

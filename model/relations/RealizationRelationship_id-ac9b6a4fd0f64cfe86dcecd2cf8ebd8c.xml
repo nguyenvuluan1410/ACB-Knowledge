@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="phục vụ cho"
+    id="id-ac9b6a4fd0f64cfe86dcecd2cf8ebd8c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5772b55f337d4d82a0606ef157f86f1c.xml#id-5772b55f337d4d82a0606ef157f86f1c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2d650de43a064e08bdde2441ab4c713e.xml#id-2d650de43a064e08bdde2441ab4c713e"/>
+</archimate:RealizationRelationship>
