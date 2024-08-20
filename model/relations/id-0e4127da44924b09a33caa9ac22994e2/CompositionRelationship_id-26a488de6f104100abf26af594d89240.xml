@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="chứa/năng lực con"
+    id="id-26a488de6f104100abf26af594d89240">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2d650de43a064e08bdde2441ab4c713e.xml#id-2d650de43a064e08bdde2441ab4c713e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2d650de43a064e08bdde2441ab4c713e.xml#id-2d650de43a064e08bdde2441ab4c713e"/>
+</archimate:CompositionRelationship>
