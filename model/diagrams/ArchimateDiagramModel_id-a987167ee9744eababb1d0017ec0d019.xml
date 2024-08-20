@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New ArchiMate View"
-    id="id-a987167ee9744eababb1d0017ec0d019">
+    id="id-a987167ee9744eababb1d0017ec0d019"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f35acab6c31146fd871a0c955bfc4722"
