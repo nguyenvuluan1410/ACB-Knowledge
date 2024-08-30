@@ -5,8 +5,7 @@
     id="id-cb3c5586140740d7bd94bbfc0f0f8312">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-48b161dd3ab44e45b7b4bb970a657c81"
-      type="1">
+      id="id-48b161dd3ab44e45b7b4bb970a657c81">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d97bae58142a4789a0c3f4a8e94123f4"
@@ -74,8 +73,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7a72b5ea645b4c2ab64d681465e28bd5"
-        targetConnections="id-e24dd66d25d64b97b6c9079bda393e6a"
-        type="1">
+        targetConnections="id-e24dd66d25d64b97b6c9079bda393e6a">
       <bounds
           x="36"
           y="36"
@@ -88,8 +86,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a2dc6caedab24ef3a776c29a617046c7"
-        targetConnections="id-6c0932afc16f4bd592d8249259bfe694"
-        type="1">
+        targetConnections="id-6c0932afc16f4bd592d8249259bfe694">
       <bounds
           x="36"
           y="132"
@@ -157,8 +154,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7dbd0a14b2e5433090f9271071141584"
-      type="1">
+      id="id-7dbd0a14b2e5433090f9271071141584">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4559271b7baf4854be03985e82931788"
@@ -226,8 +222,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-abb39569a88f4a4c80ff30e3827fb7cf"
-        targetConnections="id-40fd20f7519340249cbeb37ea5b0d154"
-        type="1">
+        targetConnections="id-40fd20f7519340249cbeb37ea5b0d154">
       <bounds
           x="36"
           y="36"
@@ -240,8 +235,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e20a876830714c7980562a984c5fdc40"
-        targetConnections="id-8745d40f01b24d0d88d49d6cf1d30fd2"
-        type="1">
+        targetConnections="id-8745d40f01b24d0d88d49d6cf1d30fd2">
       <bounds
           x="36"
           y="132"

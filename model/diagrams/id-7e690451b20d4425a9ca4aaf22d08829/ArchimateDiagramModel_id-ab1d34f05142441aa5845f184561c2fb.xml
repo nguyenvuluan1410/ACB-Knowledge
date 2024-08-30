@@ -8,7 +8,8 @@
       id="id-6a473eb16dcb425fa9183d19c0b508a6"
       targetConnections="id-6282ea18b023400298751f71b760f76a"
       font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-18|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-094e1f7751c54208a7cda18c8c9490d5"
@@ -173,5 +174,51 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-5bcdb8e3088d44029cf1d0da3b5b685b.xml#id-5bcdb8e3088d44029cf1d0da3b5b685b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bfd1aa63db904b0a9a6633b7e78e9f26"
+      targetConnections="id-53ebaffde91348b8af76124c9d5b8140">
+    <bounds
+        x="1680"
+        y="204"
+        width="409"
+        height="187"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-4c08769272694f6299a6b38bb4d30681.xml#id-4c08769272694f6299a6b38bb4d30681"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fe4734031b37407cb750681f17330573">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-53ebaffde91348b8af76124c9d5b8140"
+        source="id-fe4734031b37407cb750681f17330573"
+        target="id-bfd1aa63db904b0a9a6633b7e78e9f26">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-fe3915266da74ceda9bcd800f0bbb58b.xml#id-fe3915266da74ceda9bcd800f0bbb58b"/>
+    </sourceConnections>
+    <bounds
+        x="1992"
+        y="492"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-02d22c0511f7485a9924d912bff5ee2e.xml#id-02d22c0511f7485a9924d912bff5ee2e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0ceaaabbcac44445aa96e904183c09a4">
+    <bounds
+        x="2124"
+        y="204"
+        width="409"
+        height="187"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-ed663d8b3fff4f39a70fd437803e259f.xml#id-ed663d8b3fff4f39a70fd437803e259f"/>
   </children>
 </archimate:ArchimateDiagramModel>
