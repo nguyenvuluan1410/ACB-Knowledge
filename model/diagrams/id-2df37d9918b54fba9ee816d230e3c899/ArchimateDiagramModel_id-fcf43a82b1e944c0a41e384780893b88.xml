@@ -368,7 +368,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b95425ef8b2145cb8aea4a00e1ff8301"
       font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
-      textPosition="1">
+      textPosition="2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-daa2aee884df47e5bb7041c1a9c50117"
