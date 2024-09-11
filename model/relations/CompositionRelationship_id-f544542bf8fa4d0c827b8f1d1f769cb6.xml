@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="chứa/năng lực con"
     id="id-f544542bf8fa4d0c827b8f1d1f769cb6">
   <source
       xsi:type="archimate:ApplicationComponent"
