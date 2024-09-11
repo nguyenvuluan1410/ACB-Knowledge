@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compos"
+    id="id-9e6a7326c5ff43c2a146a8c2c7bb8ccf"
+    documentation="${name}&#xD;&#xA;«${property:Developer}»">
+  <properties
+      key="Developer"
+      value="IBM"/>
+</archimate:ApplicationComponent>

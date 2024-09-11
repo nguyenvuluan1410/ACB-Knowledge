@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KingDom"
+    id="id-120621682d4949159854b7bb7bb66116">
+  <properties
+      key="Developer"
+      value="IBM"/>
+</archimate:ApplicationComponent>

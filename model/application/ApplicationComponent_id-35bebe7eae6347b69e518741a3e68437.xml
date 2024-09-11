@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artech"
+    id="id-35bebe7eae6347b69e518741a3e68437">
+  <properties
+      key="Developer"
+      value="IBM"/>
+</archimate:ApplicationComponent>

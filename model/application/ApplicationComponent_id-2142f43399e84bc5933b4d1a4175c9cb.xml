@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neuron"
+    id="id-2142f43399e84bc5933b4d1a4175c9cb">
+  <properties
+      key="Developer"
+      value="IBM"/>
+</archimate:ApplicationComponent>
