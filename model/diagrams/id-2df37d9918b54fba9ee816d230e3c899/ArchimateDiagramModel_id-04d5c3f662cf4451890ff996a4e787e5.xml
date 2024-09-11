@@ -533,8 +533,8 @@
           href="AggregationRelationship_id-637b107c2ce342a0bf352c5de645fe00.xml#id-637b107c2ce342a0bf352c5de645fe00"/>
     </sourceConnections>
     <bounds
-        x="1620"
-        y="301"
+        x="1277"
+        y="600"
         width="408"
         height="156"/>
     <children
@@ -821,5 +821,17 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-ae4f2f947ecf455dbbf3480629322668.xml#id-ae4f2f947ecf455dbbf3480629322668"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6a9ebde87ff5449792b93ff68c839a7f"
+      font="1|Segoe UI|72.0|3|WINDOWS|1|-96|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Tao buồn ngủ quá">
+    <bounds
+        x="624"
+        y="1128"
+        width="1537"
+        height="265"/>
   </children>
 </archimate:ArchimateDiagramModel>
