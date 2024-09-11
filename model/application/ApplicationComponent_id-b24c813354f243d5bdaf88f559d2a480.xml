@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Service Management"
+    id="id-b24c813354f243d5bdaf88f559d2a480">
+  <properties
+      key="Developer"
+      value="Service Now"/>
+</archimate:ApplicationComponent>
