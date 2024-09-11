@@ -8,7 +8,8 @@
       id="id-6a473eb16dcb425fa9183d19c0b508a6"
       targetConnections="id-6282ea18b023400298751f71b760f76a id-7466f624405e465aad0c6df99fbc558d"
       font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-18|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-094e1f7751c54208a7cda18c8c9490d5"
