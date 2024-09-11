@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud ERP"
+    id="id-24f3c234bf8b41509ccfb9d6578fbe64">
+  <properties
+      key="Developer"
+      value="Oracle"/>
+</archimate:ApplicationComponent>
