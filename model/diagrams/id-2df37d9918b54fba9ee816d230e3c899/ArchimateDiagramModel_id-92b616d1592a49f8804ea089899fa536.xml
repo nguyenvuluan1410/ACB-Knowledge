@@ -215,6 +215,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c2786f32afc04584ae6193dacbe372e1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;«${property:Developer}»"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8eb66f5fa2f447ef95d8c335ff0bb237"
@@ -461,6 +464,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d9501e05323b46508b610d19ce92ac10">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;«${property:Developer}»&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e791e23bdbe44cfd85f27c094540165d"

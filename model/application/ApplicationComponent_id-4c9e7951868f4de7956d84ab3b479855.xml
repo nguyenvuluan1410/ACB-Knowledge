@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RPA"
-    id="id-4c9e7951868f4de7956d84ab3b479855"/>
+    id="id-4c9e7951868f4de7956d84ab3b479855">
+  <properties
+      key="Developer"
+      value="AKA BOT"/>
+</archimate:ApplicationComponent>

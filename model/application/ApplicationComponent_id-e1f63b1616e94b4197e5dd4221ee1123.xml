@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DNA"
-    id="id-019fd258a2664965933a3133965b24e3">
+    name="Chatbot"
+    id="id-e1f63b1616e94b4197e5dd4221ee1123">
   <properties
       key="Developer"
-      value="Oracle"/>
+      value="Vinbase"/>
 </archimate:ApplicationComponent>

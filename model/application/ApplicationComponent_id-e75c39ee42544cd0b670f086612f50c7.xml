@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DNA"
-    id="id-e75c39ee42544cd0b670f086612f50c7"/>
+    id="id-e75c39ee42544cd0b670f086612f50c7">
+  <properties
+      key="Developer"
+      value="Oracle"/>
+</archimate:ApplicationComponent>

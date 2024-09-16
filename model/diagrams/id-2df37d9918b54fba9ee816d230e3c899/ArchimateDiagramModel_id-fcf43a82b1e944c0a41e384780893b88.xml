@@ -357,6 +357,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e0bb2fe33934d9381d697bbde01e285"
+      targetConnections="id-82d9a424a2834507b67798aaa3a676d7"
       font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       type="1">
     <sourceConnections
@@ -469,6 +470,9 @@
       targetConnections="id-66cc0648d2ea48dfb0cb33dadab3de53 id-9d4a7dbfac2e4e05b928b944d05c3889"
       font="1|Segoe UI Semibold|9.0|0|WINDOWS|1|-12|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       type="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;«${property:Developer}»&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-daa2aee884df47e5bb7041c1a9c50117"
@@ -552,9 +556,9 @@
     </sourceConnections>
     <bounds
         x="1752"
-        y="588"
+        y="552"
         width="337"
-        height="358"/>
+        height="394"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-267a07b986d54975a74bbe56f5ade810"
@@ -562,7 +566,7 @@
         type="1">
       <bounds
           x="36"
-          y="24"
+          y="60"
           width="157"
           height="37"/>
       <archimateElement
@@ -576,7 +580,7 @@
         type="1">
       <bounds
           x="36"
-          y="72"
+          y="108"
           width="157"
           height="49"/>
       <archimateElement
@@ -590,7 +594,7 @@
         type="1">
       <bounds
           x="36"
-          y="132"
+          y="168"
           width="157"
           height="61"/>
       <archimateElement
@@ -604,7 +608,7 @@
         type="1">
       <bounds
           x="36"
-          y="216"
+          y="252"
           width="157"
           height="49"/>
       <archimateElement
@@ -618,7 +622,7 @@
         type="1">
       <bounds
           x="36"
-          y="276"
+          y="312"
           width="157"
           height="61"/>
       <archimateElement
@@ -861,5 +865,29 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-2258cc529d8c4f14ad01eb610475c24f.xml#id-2258cc529d8c4f14ad01eb610475c24f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3a369c51c5ed441183e4d89301c81897">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;«${property:Developer}»"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-82d9a424a2834507b67798aaa3a676d7"
+        source="id-3a369c51c5ed441183e4d89301c81897"
+        target="id-9e0bb2fe33934d9381d697bbde01e285">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-96728dfff20d48a183680f600c967a45.xml#id-96728dfff20d48a183680f600c967a45"/>
+    </sourceConnections>
+    <bounds
+        x="1344"
+        y="588"
+        width="97"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-e1f63b1616e94b4197e5dd4221ee1123.xml#id-e1f63b1616e94b4197e5dd4221ee1123"/>
   </children>
 </archimate:ArchimateDiagramModel>
